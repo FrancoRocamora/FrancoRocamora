@@ -3,7 +3,7 @@
 
 # Hi there! 👋
 
-My name is Franco Rocamora from Mendoza, Argentina, and I'm 22 years old. I have a background in piano, having studied it for 9 years, but last year I decided to switch my profession to programming. I have a great passion for programming and enjoy learning new languages and technologies on my own.
+My name is Franco Rocamora from Mendoza, Argentina, and I'm 22 years old. I have a background in piano, having studied it for 9 years, but last year I decided to switch my profession to web developer. I have a great passion for programming and enjoy learning new languages and technologies on my own.
 
 ## 🔭 Currently Working On
 I'm currently working on a new web project called **MediTrack**. It's an app designed to help you keep track of your medical records and appointments.
